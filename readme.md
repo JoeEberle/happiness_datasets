@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Happiness Datasets - A repository  for Happiness Datasets
 A repository  for Happiness Datasets
 
@@ -7,8 +9,6 @@ A repository  for Happiness Datasets
 Welcome to the solution **Happiness Datasets** - an example for your projects
 
 A repository  for Happiness Datasets
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
