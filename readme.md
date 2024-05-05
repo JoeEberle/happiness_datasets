@@ -46,5 +46,5 @@ To get started with the **Happiness Datasets** solution repository, follow these
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](solution_stacked_sign.png)  <br>
+ 
     
