@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Happiness Datasets - A repository  for Happiness Datasets
-A repository  for Happiness Datasets
+# Happiness Datasets - In essence, a data science storyboard bridges the gap between data analysis and actionable insights by providing a coherent and visually appealing narrative.
+In essence, a data science storyboard bridges the gap between data analysis and actionable insights by providing a coherent and visually appealing narrative.
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Happiness Datasets** - an example for your projects
 
-A repository  for Happiness Datasets
+In essence, a data science storyboard bridges the gap between data analysis and actionable insights by providing a coherent and visually appealing narrative.
 
 ## Getting Started
 To get started with the **Happiness Datasets** solution repository, follow these steps:
