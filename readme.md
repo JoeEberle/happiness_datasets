@@ -2,7 +2,7 @@
 Welcome to the solution **Happiness Datasets** - an example for your projects
 
 happiness_datasets
-
+![Image image_filename](code.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
