@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Happiness Datasets - happiness_datasets
-happiness_datasets
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Happiness Datasets - happiness_datasets![Image image_filename](code.png)
 Welcome to the solution **Happiness Datasets** - an example for your projects
 
 happiness_datasets
@@ -24,6 +17,9 @@ To get started with the **Happiness Datasets** solution repository, follow these
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -33,13 +29,11 @@ To get started with the **Happiness Datasets** solution repository, follow these
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
